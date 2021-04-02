@@ -17,7 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://rekroetch.github.io/employee-directory",
+  "homepage": "https://paolorafaelyap.github.io/employee-directory",
   "eslintConfig": {
     "extends": [
       "react-app",
